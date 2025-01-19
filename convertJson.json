@@ -1,0 +1,56 @@
+[
+    {
+        "id": 85,
+        "title": "Apple",
+        "description": "Apple is the best for health",
+        "image": "images_products\/1730647512_images.jpeg",
+        "price": "554.00",
+        "created_at": "2024-11-03 22:25:12",
+        "updated_at": "2024-11-03 22:25:12"
+    },
+    {
+        "id": 86,
+        "title": "Cherimoya",
+        "description": "Cherimoya is the best for health ",
+        "image": "images_products\/1730647558_Cherimoya_43f6190b-c678-4f70-8035-47941aa1606d_512x512.webp",
+        "price": "33.00",
+        "created_at": "2024-11-03 22:25:58",
+        "updated_at": "2024-11-03 22:25:58"
+    },
+    {
+        "id": 88,
+        "title": "Banana",
+        "description": "Bananas are the best for health",
+        "image": "images_products\/1730647716_WhatsAppImage2023-12-15at12.21.12_398x.webp",
+        "price": "11.00",
+        "created_at": "2024-11-03 22:28:36",
+        "updated_at": "2024-11-03 22:28:36"
+    },
+    {
+        "id": 90,
+        "title": "Fruit",
+        "description": "Fruit are the best for health",
+        "image": "images_products\/1731337571_fruits-in-vietnam-1-mang-cut.jpg",
+        "price": "332.00",
+        "created_at": "2024-11-11 22:06:11",
+        "updated_at": "2024-11-11 22:06:11"
+    },
+    {
+        "id": 92,
+        "title": "Dragon-fruit",
+        "description": "Dragon are the best for health ",
+        "image": "images_products\/1731338282_view-delicious-dragon-fruit (2).jpg",
+        "price": "441.00",
+        "created_at": "2024-11-11 22:18:02",
+        "updated_at": "2024-11-11 22:18:02"
+    },
+    {
+        "id": 93,
+        "title": "Doren",
+        "description": "Doren is the best for health",
+        "image": "images_products\/1731338736_durian-fruit-with-slices-leaves-isolated-white-background_252965-988.avif",
+        "price": "112.00",
+        "created_at": "2024-11-11 22:25:36",
+        "updated_at": "2024-11-11 22:25:36"
+    }
+]
